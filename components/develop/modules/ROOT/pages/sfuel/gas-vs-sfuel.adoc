@@ -2,22 +2,24 @@
 
 == What is gas? 
 
-Gas is an asset or a resource used to run something. It can be the fuel needed to enable a car to run or a tokenized asset that enables a blockchain network to run.
 
-From link:https://ethereum.org/en/developers/docs/gas/#what-is-gas[https://ethereum.org] --
+Gas is a tokenized asset that enables a blockchain network to function, similarly to how fuel enables a car to function. It is the mechanism that moves the network forward. 
+
+In more technical terms from link:https://ethereum.org/en/developers/docs/gas/#what-is-gas[https://ethereum.org] --
 
 "Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network."
 
+== It's different on SKALE
 
-[width="100%"]
+***Ether*** is the gas token for the Ethereum Network. ***sFUEL*** is the gas token for the SKALE Network. While these are both gas tokens, there are some important, key differences that enable SKALE to operate with zero-cost transactions. 
+
+There is no cost for sFUEL, it has **absolutely no economic value**. It is free metered resources for transactions on the network. link:https://skale.space/blog/validator-economics[To undestand why SKALE doesn't need users to pay gas fees]
+
+
+
 == Gas vs sFUEL
-|======
-|                | +++<strong>Gas</strong>+++			| +++<strong>sFUEL</strong>+++
-| Easy Access    | +++<p style="color: red;">No</p>+++  | +++<p style="color: green;">Yes</p>+++
-| Economic Value | +++<p style="color: red;">Yes</p>+++ | +++<p style="color: green;">No</p>+++
-| Purchasable    | +++<p style="color: red;">Yes</p>+++ | +++<p style="color: green;">No</p>+++
-| 
-|======
+
+<add table>
 
 === Easy Access
 
